@@ -1,7 +1,10 @@
 # Gunnery_Analytics 
 Product of Marne Innovations 
+
 By 1LT Chris Aliperti and CDT Joshua Wong
+
 Current as of: 18 JUL 22
+
 
 Version 1.1 
 
